@@ -1,0 +1,1 @@
+Copy-Item -Path "C:\Users\[myname]\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Bookmarks" -Destination "C:\Users\[myname]\[backuppath]"
