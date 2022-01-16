@@ -1,0 +1,1 @@
+powershell.exe -command "& 'C:\Scripts\set_time_automatically.ps1'"
